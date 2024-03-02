@@ -3,9 +3,9 @@ from django.http import HttpResponse
 
 import joblib
 from joblib import load
-model_path1 = "/Users/SalmaDkier/Desktop/TechnoDeployment/savedModels/model.joblib"
-model_path2 = "/Users/SalmaDkier/Desktop/TechnoDeployment/savedModels/pca.joblib"
-model_path3 = "/Users/SalmaDkier/Desktop/TechnoDeployment/savedModels/scaler.joblib"
+model_path1 = "/Users/rahulkatta/Documents/GitHub/Predicting-Mortgage-Backed-Securities-Prepayment-Risk/Django Deployment/savedModels/model.joblib"
+model_path2 = "/Users/rahulkatta/Documents/GitHub/Predicting-Mortgage-Backed-Securities-Prepayment-Risk/Django Deployment/savedModels/pca.joblib"
+model_path3 = "/Users/rahulkatta/Documents/GitHub/Predicting-Mortgage-Backed-Securities-Prepayment-Risk/Django Deployment/savedModels/scaler.joblib"
 
 
 
